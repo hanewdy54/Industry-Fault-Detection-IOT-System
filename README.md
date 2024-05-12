@@ -24,7 +24,7 @@ The Industry Fault Detection System (IDFS) is am autonomous monitoring solution 
 - **Air Quality Sensor (MQ-135):** Detects a wide range of gases with high sensitivity and fast response.
 - **Light Detection Sensor (LDR):** Senses light conditions, used with microcontrollers for easy integration.
 - **Infrared Water Level Sensor:** Measures liquid levels accurately with no moving parts.
-- **Water Level Sensor:** Detects water presence with high reliability and precision.
+- **Infrared Flame Detector:** Detects fire presence with high reliability and precision.
 - **Temperature and Humidity Sensor (DHT11):** Measures temperature and humidity with high accuracy.
 
 ## Methodology
