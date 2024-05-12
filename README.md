@@ -4,7 +4,7 @@ This is a repository created to document our final microprocessor class project.
 
 ## Overview
 
-The Industry Fault Detection System (IDFS) is an advanced, autonomous monitoring solution designed to detect and prevent potential failures in industrial settings. Leveraging IoT technologies, machine learning, and real-time data analytics, IDFS continuously monitors critical parameters, identifies anomalies, and takes proactive measures to mitigate risks. This system enhances operational efficiency, reduces downtime, and ensures a safer working environment.
+The Industry Fault Detection System (IDFS) is am autonomous monitoring solution designed to detect and prevent potential failures in industrial settings. Leveraging IoT technologies and real-time data analytics, IDFS continuously monitors critical parameters, identifies anomalies, and takes proactive measures to mitigate risks. This system enhances operational efficiency, reduces downtime, and ensures a safer working environment.
 
 ## Features
 
@@ -13,6 +13,7 @@ The Industry Fault Detection System (IDFS) is an advanced, autonomous monitoring
 - **Heat and Humidity Levels:** Tracks temperature and humidity to prevent overheating, mold growth, and occupant discomfort.
 - **Harmful Gases:** Detects the presence of dangerous gases, enabling prompt corrective actions to maintain air quality and safety.
 - **Flood Detection:** Identifies potential water leaks or flooding, allowing for quick response to prevent extensive water damage.
+-**Flame Detection:** Detects fire on plant.
 
 ### Auxiliary Systems
 - **Gas Detection Extraction Fan:** Quickly removes harmful gases from the environment, ensuring a healthier atmosphere.
