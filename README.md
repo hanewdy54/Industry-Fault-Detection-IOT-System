@@ -53,12 +53,10 @@ Future enhancements will focus on:
 Our project successfully developed an autonomous Industry Fault Detection System that integrates IoT technologies and real-time data analytics. Overcoming initial challenges, the IDFS now reliably monitors industrial parameters, detects faults, and takes proactive measures to enhance operational efficiency and safety. This project demonstrates the potential for creating smarter, more responsive, and safer industrial environments.
 
 ## Repository Structure
-- `/code`: Source code for Arduino Mega (Master) and Nano 33 IOT (Slave)
-- `/docs`: Documentation and design schematics
+- `/`: Source code for Arduino Mega (Master) and Nano 33 IOT (Slave)
 - `/circuit`: Circuit diagrams and Fritzing files
-- `/prototype`: Images and descriptions of the physical prototype and Blynk template
 
 ## Contact
 For any questions or contributions, please contact:
-- David H. Delgado Vazquez, UAGM School of Engineering, S01411770
-- Jean C. Quiñones Rodriguez, UAGM School of Engineering, S00573167
+- David H. Delgado Vazquez, UAGM School of Engineering
+- Jean C. Quiñones Rodriguez, UAGM School of Engineering
