@@ -18,6 +18,7 @@ The Industry Fault Detection System (IDFS) is am autonomous monitoring solution 
 ### Auxiliary Systems
 - **Gas Detection Extraction Fan:** Quickly removes harmful gases from the environment, ensuring a healthier atmosphere.
 - **Sprinkler System Water Pump:** Ensures water availability for fire suppression, enhancing safety and minimizing damage.
+- **Emergencyt Light:** Ensures that when no light is detected a emergency light is ativated. 
 - **IoT Monitoring:** Real-time data collection and analysis optimize operations and improve response times.
 
 ## Materials
